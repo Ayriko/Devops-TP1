@@ -2,6 +2,16 @@
 
 A project realized in typescript.
 
+## Installation
+
+You need to clone this repository:
+
+```ts
+git clone https://github.com/Ayriko/Devops-TP1.git
+```
+
+## Launching
+
 The project need an environment variable called PING_LISTEN_PORT, you can use any value you want if the port isn't already in use.
 
 Then it can be launch with the following commands :  
